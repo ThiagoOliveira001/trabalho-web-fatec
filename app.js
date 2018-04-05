@@ -7,7 +7,7 @@ require('./config/config');
 
 app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({extended: true}));
-app.use(express.static('C:/trabalho-web-fatec' + '/public'))
+app.use(express.static('/app' + '/public'))
 require('./routes/routes')(app);
 
 app.listen(global.config.port, () => {
