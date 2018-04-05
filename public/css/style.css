@@ -1,0 +1,13 @@
+header nav{
+    background: rgb(9, 9, 77);
+}
+header nav a{
+    color: white;
+}
+header .form-inline button {
+    background: rgb(22, 185, 22);
+    color: white;
+}
+header .jumbotron{
+    background-image: url('/assets/logocapi.svg'); 
+}   
