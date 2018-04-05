@@ -1,0 +1,26 @@
+{
+  "name": "trabalho-web-fatec",
+  "version": "1.0.0",
+  "description": "Trabalho desenvolvido na Fatec  Franca para construção de um site.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoOliveira001/trabalho-web-fatec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoOliveira001/trabalho-web-fatec/issues"
+  },
+  "homepage": "https://github.com/ThiagoOliveira001/trabalho-web-fatec#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.0.0",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3"
+  }
+}
